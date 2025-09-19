@@ -1,3 +1,5 @@
+
+//0.1.1
 // 全局存储iframe广告类型映射关系
 window.iframeAdTypeMap = window.iframeAdTypeMap || new Map();
 
